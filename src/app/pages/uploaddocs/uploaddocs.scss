@@ -1,0 +1,15 @@
+/*@import '../../theme/sass/conf/conf';*/
+
+
+.btn{
+  font-size: 14px;
+}
+.ion-folder, .ion-android-arrow-down, .ion-trash-a{
+  font-size: 24px;
+}
+.breadcrumb li:nth-child(2)::before{
+  margin-top: 11.5px;
+}
+.btn-bs-file.btn.btn-success{
+  margin-top: 5px;
+}
